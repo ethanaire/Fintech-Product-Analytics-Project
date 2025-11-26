@@ -1,0 +1,45 @@
+product_id,sub_category,category,online_offline,product_type
+P1_1,Marketplace,Marketplace,Online,Payment
+P1_2,Restaurant Chain,FnB,Offline,Payment
+P1_3,Beverage Stores,FnB,Offline,Payment
+P1_4,Hotel Booking,Traveling,Online,Payment
+P1_5,Toll,Transportation,Offline,Payment
+P1_6,Other FnB,FnB,Offline,Payment
+P1_7,Shopping Stores,Shopping,Offline,Payment
+P1_8,Convenience Store,Shopping,Offline,Payment
+P1_9,Air Ticket,Traveling,Online,Payment
+P1_10,Shopping Stores,Shopping,Online,Payment
+P1_11,Travel Ticket,Traveling,Online,Payment
+P1_12,TV,Billing,Online,Payment
+P1_13,Water,Billing,Online,Payment
+P1_14,Topup,Telco,Online,Payment
+P1_15,Food Stores,FnB,Offline,Payment
+P1_16,Cinema,Movies,Online,Payment
+P1_17,Internet,Billing,Online,Payment
+P1_18,Cinemas Aggregator,Movies,Online,Payment
+P1_19,Supermarket,Shopping,Offline,Payment
+P1_20,Bus ticket,Transportation,Online,Payment
+P1_21,Apartment Fee,Billing,Online,Payment
+P1_22,Consumer Finance,Billing,Online,Payment
+P1_23,Other Shopping,Shopping,Offline,Payment
+P1_24,Other Shopping,Shopping,Offline,Payment
+P1_25,Other FnB,FnB,Offline,Payment
+P1_26,Insurance,Billing,Online,Payment
+P1_27,Telco Card,Telco,Online,Payment
+P1_28,Tour Booking,Traveling,Online,Payment
+P1_29,Electricity,Billing,Online,Payment
+P1_30,Marketplace,Marketplace,Online,Payment
+P1_31,Car sharing,Transportation,Online,Payment
+P1_32,Convenience Store,Shopping,Offline,Payment
+P1_33,Data,Telco,Online,Payment
+P1_34,Postpaid,Telco,Online,Payment
+P1_35,Combo,Telco,Online,Payment
+P2_01,Not Payment,Not Payment,Not Payment,Transfer
+P2_02,Not Payment,Not Payment,Not Payment,Transfer
+P2_03,Not Payment,Not Payment,Not Payment,Transfer
+P3_01,Not Payment,Not Payment,Not Payment,Deposit
+P3_02,Not Payment,Not Payment,Not Payment,Deposit
+P3_03,Not Payment,Not Payment,Not Payment,Deposit
+P4_01,Not Payment,Not Payment,Not Payment,Withdrawal
+P4_02,Not Payment,Not Payment,Not Payment,Withdrawal
+P4_03,Not Payment,Not Payment,Not Payment,Withdrawal
